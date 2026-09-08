@@ -1,3 +1,7 @@
+## Parcours français
+
+Explications chapitre par chapitre du code de ce dépôt, dans [docs/fr](docs/fr/). Documentation uniquement : rien n'a été compilé ni exécuté pour la rédiger.
+
 
 # Description
 
